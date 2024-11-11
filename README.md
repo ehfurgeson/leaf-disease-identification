@@ -4,7 +4,7 @@ This repository contains projects focused on visually identifying diseases on le
 
 ## Project Structure
 
-- `leaves.ipynb`: Analysis of NFL players for fantasy football
+- `leaves.ipynb`
 
 ## Data Sources
 
